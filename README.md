@@ -6,7 +6,6 @@
 💻 **B.Tech CSE @ Lovely Professional University**  
 🌱 Passionate about **coding, data science, and building smart apps**  
 ⚡ Exploring **AI, Flask, Data Science, and Full-Stack Development**  
-🕌 Guided by **faith, curiosity & creativity**  
 
 ---
 
