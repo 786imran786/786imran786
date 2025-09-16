@@ -1,87 +1,94 @@
-<!-- Futuristic Header -->
-![Header](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=ff512f&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Md+Imran+Siddiqui+🚀;Full-Stack+Developer+%7C+AI+Explorer+%7C+DSA+Learner;I+build+cool+apps+with+Flask,+Data,+and+AI!)
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Md%20Imran%20Siddiqui%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
+
+# 👋 Hey, I'm Md Imran Siddiqui
+
+💻 **B.Tech CSE @ Lovely Professional University**  
+🌱 Passionate about **coding, data science, and building smart apps**  
+⚡ Exploring **AI, Flask, Data Science, and Full-Stack Development**  
+🕌 Guided by **faith, curiosity & creativity**  
 
 ---
 
-# ✨ About Me  
-
-🎓 **B.Tech CSE** @ Lovely Professional University  
-💻 Building **AskLPU**, a next-gen Q&A platform with **AI moderation**  
-📊 Exploring **Data Science, ML, and full-stack development**  
-⚡ Blending **tech + creativity** → from dashboards to bots & AI tools  
-🌌 Dream: *“Placement-ready, skilled, and impactful.”*  
-
+## 🚀 About Me
+- 🔭 Currently building: **AskLPU – a Q&A platform with AI moderation**
+- 🌱 Learning: **Data Structures & Algorithms | Data Science & ML**
+- 🤝 Love collaborating on: **Flask projects, AI-powered tools, and dashboards**
+- 🎯 Vision: To be **placement-ready with impactful projects & strong coding skills**
+- ✨ Belief: *"Every line of code is a step towards mastering the craft."*
 
 ---
 
-## 🛠️ Tech Universe 🌌  
+## 🛠️ Tech Arsenal
 
-<div align="center">
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb400?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Data & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311577c.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%23009688.svg?style=for-the-badge&logoColor=white)  
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Databases & Tools**  
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github) 
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-
-</div>
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚀 Highlighted Projects  
+## 📌 Highlighted Projects
 
-💡 **AskLPU** – Q&A website with AI moderation, OTP verification, voting & rich features  
-📅 **Habit Tracker Bot** – Tracks habits weekly with history + AI-based habit tips  
-📊 **Crime Data Dashboard** – Neon-themed Flask dashboard for crime data insights  
-👔 **Fashion Styling Assistant** – AI stylist + weather-aware outfit suggestions  
-🔒 **Home Security Bot** – Motion detection + Telegram/WhatsApp alerts + auto snapshots  
-💰 **Expense Tracker Bot** – Finance dashboard + saving challenges + AI financial advice  
+🔹 **AskLPU** – Next-gen Q&A website with auth, OTP, voting, notifications & AI moderation (Flask + SQLAlchemy + Supabase)  
+🔹 **Habit Tracker Bot** – Weekly habit tracking with login, history, and AI-powered habit suggestions  
+🔹 **Crime Data Dashboard** – Dark-themed Flask dashboard with rich data visualizations  
+🔹 **Fashion Styling Assistant** – Virtual closet + AI stylist with weather-based recommendations  
+🔹 **Home Security Bot** – Motion detection + Telegram/WhatsApp alerts + sound & snapshots  
+🔹 **Expense Tracker Bot** – Smart finance dashboard with saving challenges & AI-driven insights  
+
+*(👉 Check my pinned repositories for details!)*
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=786imran786&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=786imran786&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=786imran786&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=786imran786&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=786imran786&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=786imran786&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=786imran786&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff512f&line=dd2476&point=f9f9f9" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=786imran786&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/imransiddiqui786/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://imranportfolio-neon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:mohdimransid786@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mohdsid1815/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imransiddiqui786/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://imranportfolio-neon.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdimransid786@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdsid1815/)  
+
+---
+
+
 
 ---
 
@@ -94,3 +101,7 @@ def life():
         print("✨", step)
 
 life()
+```
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer&fontSize=30&fontColor=ffffff)
+
